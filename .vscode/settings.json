@@ -1,0 +1,17 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\semya\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "workbench.editor.untitled.hint": "hidden",
+    "screencastMode.fontSize": 70,
+    "workbench.editor.enablePreview": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "[python]": {
+    },
+    "git.openRepositoryInParentFolders": "never",
+    "window.zoomLevel": 1,
+    "workbench.colorTheme": "Default Dark+",
+    "diffEditor.ignoreTrimWhitespace": false
+}
