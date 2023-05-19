@@ -1,0 +1,14 @@
+[
+    {
+        "key": "alt+left",
+        "command": "cursorLineStart"
+    },
+    {
+        "key": "alt+right",
+        "command": "cursorLineEnd"
+    },
+    {
+        "key": "ctrl+'",
+        "command": "python.execInTerminal-icon"
+    }
+]
